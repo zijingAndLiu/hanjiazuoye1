@@ -1,0 +1,31 @@
+*{padding:0;margin:0;}
+li{list-style:none}
+a{text-decoration:none}
+img{border:none;display:block;}
+#top{width:100%;height:60px;border-bottom:1px #ccc solid;}
+#top-log{width:198px;height:60px;margin-left: 120px;background:url("../images/logo_mini.png") no-repeat center}
+#container{width:100%;height:700px;background:#f7f2ec;}
+#box{width:1140px;height:700px;margin:0 auto;padding: 0 30px}
+#con-left{width:600px;height:700px;float:left}
+#con-left img{width:100%;height:100%}
+#con-right{width:420px;height:560px;margin-top:72px;box-shadow: 0 0 3px 2px #ccc;float:right;background:#fff;position:relative}
+#left-top{width:100%;height:52px;line-height:50px;background:#f7f7f9;font-size:16px;}
+#left-top a{width:50%;color:#464646;border-bottom:2px #464646 solid;height:50px;display:inline-block;text-align:center;float:left}
+#left-top .huise{color:#afafaf;border:none}
+#con-con{width:300px;height:225px;background:#fff;padding:15px 60px 0;}
+.suojin{height:36px;border:1px solid  #ccc ;box-sizing:border-box;margin: 10px 0;padding-left:10px;}
+#con-con form >input:first-child{width:100%}
+#con-con form >input:nth-of-type(2){width:187px;float:left;}
+#con-con form >button:nth-of-type(1){float:right;width:102px;box-sizing: border-box;border:1px #ccc solid;text-align:center;margin:10px 0;height:36px;}
+#con-con form >p:nth-of-type(1){width:100%;height:16px;padding:16px 0;font-size:14px;display:block;float:left}
+#con-con form >p:nth-of-type(1)>input{width:16px;height:16px;box-sizing:border-box;border:5px #f00 solid;color:#f00;margin-right:5px;padding:0;float:left}
+#con-con form >p:nth-of-type(1)>a{float:right;color:#464646}
+#con-con form >input:nth-of-type(3){width:100%;box-sizing:border-box;height:40px;border-radius:20px;background:#d2041f;border:none;margin:10px 0;font-size:14px;color:#fff;letter-spacing:10px}
+#hezuo{height:30px;border-top:1px #ccc solid;margin-top:35px;position:relative;padding:30px 60px;}
+#hezuo>p{position:absolute;font-size:13px;background:#fff;padding: 0 10px;top:-7px;left:50%;margin-left:-62px;}
+#hezuo>a{width:30px;height:30px;float:left;display:block;background:#464646;margin: 0 15px;border-radius:50%}
+#saoma{width:140px;height:60px;position:absolute;bottom:0;right:0;}
+#dibu{height:110px;width:100%;background:#fff;text-align:center}
+#dibu>p:first-child{font-size:12px;margin:30px 0 16px 0;color:#000}
+#dibu>p:first-child a{color:#000}
+#dibu>P:last-child{font-size:10px;color:#b299a5}
