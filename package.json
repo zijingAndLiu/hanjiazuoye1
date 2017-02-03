@@ -11,8 +11,17 @@
   "devDependencies": {
     "concat": "0.0.1-security",
     "gulp": "^3.9.1",
+    "gulp-ruby-sass": "^2.1.1",
     "htmlmin": "0.0.7",
     "imagemin": "^5.2.2",
     "uglify": "^0.1.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zijingAndLiu/hanjiazuoye1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zijingAndLiu/hanjiazuoye1/issues"
+  },
+  "homepage": "https://github.com/zijingAndLiu/hanjiazuoye1#readme"
 }
